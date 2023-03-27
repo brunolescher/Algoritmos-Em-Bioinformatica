@@ -1,3 +1,9 @@
+""" Bruno Batista Lescher RA 158443 - Algoritmos em Bioinformática
+    O código a seguir importa um arquivo .fasta contendo sequências de DNA.
+    A partir disso, ele realiza a identificação das sequências de DNA, realiza o cálculo
+    da temperatura Melting e gera um gráfico de dispersão com os dados obtidos."""
+
+
 from Bio import SeqIO
 import math
 import matplotlib.pyplot as plt
