@@ -1,6 +1,6 @@
 """ Algoritmos em Bioinformática
     Bruno Batista Lescher
-    Contagem da sequência de DNA"""
+    Contagem de Nucleotídeo na sequência de DNA"""
 
 sequenciaDNA = input('Insira a sequência de DNA: ')
 
