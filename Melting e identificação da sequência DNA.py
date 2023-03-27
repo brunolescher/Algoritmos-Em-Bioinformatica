@@ -3,7 +3,6 @@
     A partir disso, ele realiza a identificação das sequências de DNA, realiza o cálculo
     da temperatura Melting e gera um gráfico de dispersão com os dados obtidos."""
 
-
 from Bio import SeqIO
 import math
 import matplotlib.pyplot as plt
